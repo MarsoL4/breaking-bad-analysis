@@ -32,7 +32,7 @@ O conjunto de dados inclui informações sobre:
 Para rodar este projeto localmente:
 1. Verifique que você possui Python e Jupyter Notebook instalados.
 2. Clone o repositório e navegue até a pasta do projeto.
-3. Abra o arquivo do Jupyter Notebook (`Enhanced_AnaliseExploratoria_BreakingBad.ipynb`) e execute as células em sequência.
+3. Abra o arquivo do Jupyter Notebook (`AnaliseExploratoria_BreakingBad.ipynb`) e execute as células em sequência.
 
 Alternativamente, você pode utilizar o [Google Colab](https://colab.research.google.com/) para executar o notebook diretamente no navegador.
 
